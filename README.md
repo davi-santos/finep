@@ -1,10 +1,10 @@
 # Website FINEP MAPBIO
 
-**Objetivo:** Este projeto é um site para o projeto finep - Mapeamento da Biodiversidade do Estado do Tocantins. 
+**Objetivo:** Este projeto é o desenvolvimento de um site para o projeto finep - Mapeamento da Biodiversidade do Estado do Tocantins.
 
+--
 
-Eu, Davi Santos, apresento este projeto como requisito da disciplina de estágio supervisionado, sob supervisão
-do professor e orientador Ary. Segue a seguir a estrutura de diretórios:
+Os diretórios estão separados da seguinte forma
 
-1. [Wireframe]
-2. [website]
+1. Wireframe: Contém os arquivos de esboço e protótipo do site.
+2. website: Contém os arquivos html, css e javascript, onde a página principal é o index.html
